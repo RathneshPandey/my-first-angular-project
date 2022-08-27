@@ -1,18 +1,6 @@
-.register {
-    font-size: 1.6rem;
-    font-weight: 600;
-    padding: .5rem .8rem;
-    border: 1px solid #068ff1;
-    margin-top: 3.2rem;
-    color: #068ff1 !important;
-    border-radius: 5px;
-    flex-shrink: 1;
-    transform: translate(7%, -20%);
-}
-
 .cp {
     background: linear-gradient( #4ab4fd , #1181ee );
-    box-shadow:(#4ab4fd);
+    box-shadow: 0 5px 10px rgb(74 181 253 / 55%);
     border-radius: 10px;
     padding: .4rem 1rem;
     margin: 10px 10px 100px 70px;
@@ -49,3 +37,4 @@
     -webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
+
