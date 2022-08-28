@@ -1,0 +1,26 @@
+.package {
+    background: linear-gradient( #4ab4fd , #1181ee );
+    box-shadow: 0 5px 10px rgb(74 181 253 / 55%);
+    border-radius: 10px;
+    padding: .4rem 1rem;
+    margin: 10px 10px 100px 70px;
+    font-size: 1.2rem;
+    color: #fff;
+    text-decoration: none;
+}
+.icon {
+    background-image: linear-gradient( #4ab4fd , #1181ee );
+    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.hosting_pricing {
+    background-color: #242b2e;
+    color: rgba(255, 255, 255, 0.692);
+    border-radius: 10px;
+    padding: 1.4rem;
+    width: 405px;
+    position: relative;
+    right: 5%;
+    top: -3%;
+}
